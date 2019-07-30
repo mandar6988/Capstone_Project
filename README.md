@@ -1,7 +1,7 @@
 # Capstone_Project
 Capstone Project- Monkey Breed Classification
 
-		5. Licensing, Authors, and Acknowledgements 
+		
 
 **Table of Contents:**
 
