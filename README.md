@@ -30,6 +30,7 @@ Project consist of following files/folders:
  2. trial_images: Not much important foder. Just used to display simple image.
  3. capstone_project. ipynb: It is jupiter file. This file contains all code.
  4. monkey_breed.json: Monkeys breeds are saved in this file
+ 5. Report.pdf: It consist of whole report of project.
 
 # 4. Licensing, Authors, and Acknowledgements :
 For doing this project must gives credit to Mario for making and giving data. Licensing for the data and other descriptive information at the Kaggle link available at [here](https://www.kaggle.com/slothkong/10-monkey-species). Feel comfortable to use the code here as you wish!
